@@ -43,3 +43,15 @@
 <a href="https://github.com/habib372/habib372">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=habib372&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a><hr/>
+
+#### 🤝🏻 &nbsp;Connect with Me 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/habibur-rahman-922405181/">
+  <img align="left" alt="habib's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/habib_351/">
+  <img align="left" alt="habib's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://twitter.com/Habib25523">
+  <img align="left" alt="habib Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
