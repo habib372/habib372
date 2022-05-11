@@ -48,9 +48,8 @@
 <a href="https://www.linkedin.com/in/habibur-rahman-922405181/">
   <h3 align="center" ><img alt="habib's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></h3>
 </a>
-<a href="https://www.linkedin.com/in/habibur-rahman-922405181/">
-  <h3 align="center" ><img alt="habib's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></h3>
-</a>
+<a href="https://twitter.com/habib25523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/habib25523" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/habibur-rahman-922405181/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/habibur-rahman-922405181/" height="30" width="40" /></a>
 
 <!-- <a href="https://www.instagram.com/habib_351/">
  <h3 style="float:left;"><img  alt="habib's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></h3>
