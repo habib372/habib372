@@ -49,11 +49,7 @@
 <a href="https://www.linkedin.com/in/habibur-rahman-922405181/" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="https://www.linkedin.com/in/habibur-rahman-922405181/" height="30" width="40" /></a>
 <a href="https://github.com/habib372/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ss" height="30" width="40" /></a>
  <a href="https://twitter.com/habib25523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/habib25523" height="30" width="40" /></a>
-<a href="https://www.facebook.com/habib9143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/habib9143/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/habib9143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" alt="https://www.facebook.com/habib9143/" height="30" width="40" /></a>
  <a href="https://www.instagram.com/habib_351/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/habib_351/" height="30" width="40" /></a>
  <a href="https://stackoverflow.com/users/14811432/md-habibur-rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14811432/md-habibur-rahman" height="30" width="40" /></a>
 </p>
-
-<!-- <a href="https://www.linkedin.com/in/habibur-rahman-922405181/">
-  <h3 align="center" ><img alt="habib's LinkedIN" width="22px" src="" /></h3>
-</a> -->
