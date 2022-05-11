@@ -48,11 +48,15 @@
 <a href="https://www.linkedin.com/in/habibur-rahman-922405181/">
   <h3 align="center" ><img alt="habib's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></h3>
 </a>
+<a href="https://www.linkedin.com/in/habibur-rahman-922405181/">
+  <h3 align="center" ><img alt="habib's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></h3>
+</a>
 
-<a href="https://www.instagram.com/habib_351/">
+<!-- <a href="https://www.instagram.com/habib_351/">
  <h3 style="float:left;"><img  alt="habib's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></h3>
 </a>
 <a href="https://twitter.com/Habib25523">
   <h3 ><img alt="habib | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></h3>
 </a>
 
+ -->
