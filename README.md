@@ -36,7 +36,6 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)
 
 ## &#x1f4c8; GitHub Stats
-
 &nbsp; <a href="https://github.com/habib372/habib372">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habib372&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>&nbsp;&nbsp;
