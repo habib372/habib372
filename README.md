@@ -1,4 +1,4 @@
- <h1 align="center"> Hi , I'm Habibur Rahman</h1>
+ <h1 align="center"> Hi 👋, I'm Habibur Rahman</h1>
 <h3 align="center">A passionate Web Application Developer from Bangladesh</h3>
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+visit+my+profile.;My+name+is+Habibur+Rahman.;I+am+a+Full-Stack+Web+Developer.)](https://git.io/typing-svg) -->
 
@@ -34,7 +34,6 @@
 
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)
-![Digital Marketing](https://img.shields.io/badge/-Digital%Marketing-05122A?style=flat&logo=digital-marketing)
 
 ## &#x1f4c8; GitHub Stats
 &nbsp; <a href="https://github.com/habib372/habib372">
