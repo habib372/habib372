@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **JavaScript and Vue.js**
 - 📫 How to reach me **http://habibsoft.intels.co/**
 - 👨‍💻 All of my projects are available at [http://habibsoft.intels.co/](http://habibsoft.intels.co/)
-- ✉️You can give me an Email **habibsoft372@gmail.com**
+- ✉️You can give me an email at **habibsoft372@gmail.com**
 - ⚡ Fun fact **I think I am very funny and I enjoy it.** <br/>
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="240" />
@@ -28,7 +28,8 @@
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=GitHub)&nbsp;
-![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=Jira)\
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=Jira)&nbsp;
+![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=Trello)\
 ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
@@ -45,7 +46,7 @@
 
 #### <h3 align="center"> 🤝🏻 &nbsp; Connect with Me </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/habibur-rahman-922405181/" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="https://www.linkedin.com/in/habibur-rahman-922405181/" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/habibur-rahman-922405181/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
 <a href="https://github.com/habib372/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/habib372/" height="30" width="40" /></a>
  <a href="https://twitter.com/habib25523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/habib25523" height="30" width="40" /></a>
 <a href="https://www.facebook.com/habib9143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/habib9143/" height="30" width="40" /></a>
