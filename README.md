@@ -15,7 +15,7 @@
  <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="240" />
  
  ### 🛠 &nbsp;Tech Stack
- ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=FFA518)&nbsp;
+ ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=6C78AF)&nbsp;
  ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel&logoColor=F05340)&nbsp;
  ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=FFA518)&nbsp;
  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
