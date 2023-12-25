@@ -38,6 +38,7 @@
 
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)
+![Digital Marketing](https://img.shields.io/badge/-Digital-Marketing-05122A?style=flat&logo=digital-marketing)
 
 ## &#x1f4c8; GitHub Stats
 &nbsp; <a href="https://github.com/habib372/habib372">
