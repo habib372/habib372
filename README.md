@@ -1,11 +1,12 @@
- <h1 align="center"> Hi 👋, I'm Habibur Rahman</h1>
+
+<h1 align="center"> Hi 👋, I'm Habibur Rahman</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from Bangladesh</h3>
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+visit+my+profile.;My+name+is+Habibur+Rahman.;I+am+a+Full-Stack+Web+Developer.)](https://git.io/typing-svg) -->
 
-### <img alt="GIF" src="http://habibsoft.intels.co/assets/images/habib24.png" width="40" height="40" />  About Me<br/>
+### <img alt="GIF" src="https://github.com/habib372/habib372/assets/54948423/a7225844-fc6e-438c-bf08-03591a140828" width="40" height="40" />  About Me<br/>
 
 - 🔭 I’m currently working on **Backend Development**
-- 🌱 I’m currently learning **JavaScript and Vue.js**
+- 🌱 I’m currently learning **Vue.js and Next.js**
 - 📫 How to reach me **http://habibsoft.intels.co/**
 - 👨‍💻 All of my projects are available at [http://habibsoft.intels.co/](http://habibsoft.intels.co/)
 - ✉️You can give me an email at **habibsoft372@gmail.com**
@@ -23,7 +24,9 @@
 ![JQUERY](https://img.shields.io/badge/-JQUERY-05122A?style=flat&logo=JQUERY)&nbsp;
 ![AJAX](https://img.shields.io/badge/-AJAX-05122A?style=flat&logo=AJAX)&nbsp;
 ![Json](https://img.shields.io/badge/-Json-05122A?style=flat&logo=Json)\
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js&logoColor=563D7C)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js&logoColor=563D7C)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=React.js&logoColor=563D7C)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
