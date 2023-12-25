@@ -5,7 +5,7 @@
 
 ### <img alt="GIF" src="https://github.com/habib372/habib372/assets/54948423/a7225844-fc6e-438c-bf08-03591a140828" width="40" height="40" />  About Me<br/>
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I’m currently working on **Full-Stack Web Development**
 - 🌱 I’m currently learning **Vue.js and Next.js**
 - 📫 How to reach me **http://habibsoft.intels.co/**
 - 👨‍💻 All of my projects are available at [http://habibsoft.intels.co/](http://habibsoft.intels.co/)
