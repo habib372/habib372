@@ -17,15 +17,16 @@
  ### 🛠 &nbsp;Tech Stack
  ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=6C78AF)&nbsp;
  ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel&logoColor=F05340)&nbsp;
- ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=FFA518)&nbsp;
+ ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=00758F)&nbsp;
  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)\
 ![JavaScript ES6](https://img.shields.io/badge/-JavaScriptES6-05122A?style=flat&logo=javascript)&nbsp;
 ![JQUERY](https://img.shields.io/badge/-JQUERY-05122A?style=flat&logo=JQUERY)&nbsp;
 ![AJAX](https://img.shields.io/badge/-Ajax-05122A?style=flat&logo=Ajax)&nbsp;
-![Json](https://img.shields.io/badge/-Json-05122A?style=flat&logo=Json)\
+![Json](https://img.shields.io/badge/-Json-05122A?style=flat&logo=Json)
+![API](https://img.shields.io/badge/-API-05122A?style=flat&logo=API)&nbsp;\
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js&logoColor=3C873A)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js&logoColor=563D7C)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js&logoColor=418833)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=React.js&logoColor=563D7C)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)\
