@@ -8,9 +8,9 @@
 - 🔭 I’m currently working on **Full-Stack Web Development**
 - 🌱 I’m currently learning **Vue.js and Next.js**
 - 📫 How to reach me **http://habibsoft.intels.co/**
-- 👨‍💻 All of my projects are available at [http://habibsoft.intels.co/](http://habibsoft.intels.co/)
+<!-- - 👨‍💻 All of my projects are available at [http://habibsoft.intels.co/](http://habibsoft.intels.co/) --->
 - ✉️You can give me an email at **habibsoft372@gmail.com**
-- ⚡ Fun fact **I think I am very funny and I enjoy it.** <br/>
+- ⚡ Fun fact **I think I am amusing and enjoy it.** <br/>
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="240" />
  
