@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **Full-Stack Web Development**
 - 🌱 I’m currently learning **Vue.js and Next.js**
 - 📫 How to reach me **http://habibsoft.intels.co/**
-<!-- - 👨‍💻 All of my projects are available at [http://habibsoft.intels.co/](http://habibsoft.intels.co/) --->
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/habib372/](https://www.linkedin.com/in/habib372/) 
 - ✉️You can give me an email at **habibsoft372@gmail.com**
 - ⚡ Fun fact **I think I am amusing and enjoy it.** <br/>
 
